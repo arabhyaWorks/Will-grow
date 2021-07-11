@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Will grow",
+    "slug": "snack-26b7be14-a59a-437d-a968-33a2b8f29672",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/main.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.arabhaya.snack26b7be14a59a437da96833a2b8f29672"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
