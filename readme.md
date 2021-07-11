@@ -2,21 +2,21 @@
   <h1 align="center">Will grow</h1>
 </p>
 
-We know that a person spends most of his time nither with his family nor with his friends, he spends most of his time with his work and with himself and if he is not satisfied with his work .Then he would not be satisfied with his own soul. 
+We know that a person spends most of his time nither with his family nor with his friends, he spends most of his time with his work and with himself and if he is not satisfied with his work .Then he would not be satisfied with his own soul.
 
 Then to increase productivity or to grow ownself we developed this App (**Will Growww**)
 
 Then to help him we developed this app, basic features are -
 
-The user will be able to make checklist of his whole day work.
+- The user will be able to make checklist of his whole day work.
 
-He can customise his day plan.
+- He can customise his day plan.
 
-customisation includes Planning additonal feature for daily repeatative work, which will be feed for one time in the app and shwon daily 
+- customisation includes Planning additonal feature for daily repeatative work, which will be feed for one time in the app and shwon daily
 
-We will provide feature to rate user's work after it's completion. which will ultimately results in  graph at the end of the week 
+- We will provide feature to rate user's work after it's completion. which will ultimately results in graph at the end of the week
 
-With the help of this graph user will able to figure out progress made by him.
+- With the help of this graph user will able to figure out progress made by him.
 
-The rating yourself feature is much more helpful because many other applications provide checklist feature where user can plan his day and mark it as complete but sometimes quality of work is not achieved while rating on the scale of 7 stars one will be able to rate his  work if he had completed work but very laizy manner then he will rate his work with two stars.  
+- The rating yourself feature is much more helpful because many other applications provide checklist feature where user can plan his day and mark it as complete but sometimes quality of work is not achieved while rating on the scale of 7 stars one will be able to rate his work if he had completed work but very laizy manner then he will rate his work with two stars.
 
