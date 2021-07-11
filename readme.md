@@ -22,8 +22,8 @@ Then to help him we developed this app, basic features are -
 
 
 <p align="center">
-  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle1.jpg?raw=true" width="300" title="hover text">
-  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle2.jpg?raw=true" width="300" title="hover text">
-  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle3.jpg?raw=true" width="300" title="hover text">
-  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle4.jpg?raw=true" width="300" title="hover text">
+  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle1.jpg?raw=true" width="225" title="hover text">
+  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle2.jpg?raw=true" width="225" title="hover text">
+  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle3.jpg?raw=true" width="225" title="hover text">
+  <img src="https://github.com/Arabhya07092007/Will-grow/blob/main/Hustle4.jpg?raw=true" width="225" title="hover text">
 </p>
