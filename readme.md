@@ -22,7 +22,7 @@ Then to help him we developed this app, basic features are -
 
 ## expo snack link Note this works on **android** not on web https://snack.expo.io/@arabhaya/will-growww
 
-## App apk link https://expo.io/@arabhaya/snack-26b7be14-a59a-437d-a968-33a2b8f29672
+## App apk link https://drive.google.com/file/d/1aBvUMxowV2IO5K8N5zrjJrotXZ8wsy-V/view
 
 
 <p align="center">
