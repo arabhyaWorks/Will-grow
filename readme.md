@@ -21,6 +21,7 @@ Then to help him we developed this app, basic features are -
 - The rating yourself feature is much more helpful because many other applications provide checklist feature where user can plan his day and mark it as complete but sometimes quality of work is not achieved while rating on the scale of 7 stars one will be able to rate his work if he had completed work but very laizy manner then he will rate his work with two stars.
 
 ## expo snack link Note this works on **android** not on web https://snack.expo.io/@arabhaya/will-growww
+## expo preview link version 2 https://expo.dev/@arabhaya/snack-26b7be14-a59a-437d-a968-33a2b8f29672
 
 ## App apk link https://drive.google.com/file/d/168yyZckMFaIgAZQJ0q8gwVkBT9cujVaA/view
 
